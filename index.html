@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"
+        integrity="sha512-ElRFoEQdI5Ht6kZvyzXhYG9NqjtkmlkfYk0wr6wHxU9JEHakS7UJZNeml5ALk+8IKlU6jDgMabC3vkumRokgJA=="
+        crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+
+<body>
+    <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+    <h1 align="center">PORTFOLIO OPTIMIZER</h1>
+    <form>
+        <input id="stock" />
+        <button id="submit">SUBMIT</button>
+    </form>
+    <div id="loading" style="display: none;">
+        LOADING
+    </div>
+    <div id="min-risk">
+
+    </div>
+    <div id="max-return">
+
+    </div>
+    <script>
+        var xValues = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000];
+
+        new Chart("myChart", {
+            type: "line",
+            data: {
+                labels: xValues,
+                datasets: [{
+                    data: [860, 1140, 1060, 1060, 1070, 1110, 1330, 2210, 7830, 2478],
+                    borderColor: "red",
+                    fill: false
+                }, {
+                    data: [1600, 1700, 1700, 1900, 2000, 2700, 4000, 5000, 6000, 7000],
+                    borderColor: "green",
+                    fill: false
+                }, {
+                    data: [300, 700, 2000, 5000, 6000, 4000, 2000, 1000, 200, 100],
+                    borderColor: "blue",
+                    fill: false
+                }]
+            },
+            options: {
+                legend: { display: false }
+            }
+        });
+        const submit = async (e) => {
+            document.getElementById("loading").style.display = "block"
+            document.getElementById("submit").disabled = true
+            e.preventDefault()
+            const stock = document.getElementById("stock").value
+            const response = await fetch('http://127.0.0.1:5000/api/portfolio?tickers=' + stock, {
+                method: 'GET',
+            });
+            const json = await response.json();
+            console.log(json);
+            const minRisk = JSON.parse(json.minRisk)
+            const maxReturn = JSON.parse(json.maxReturn)
+            const minRiskDiv = document.getElementById("min-risk")
+            minRiskDiv.innerHTML = "MIN RISK "
+            for (let [key, value] of Object.entries(minRisk)) {
+                console.log(value);
+                let k = Object.keys(value)[0];
+                let v = value[k];
+                minRiskDiv.innerHTML += `${key}: ${v}`
+
+            }
+            const maxReturnDiv = document.getElementById("max-return")
+            maxReturnDiv.innerHTML = "MAX RETURN "
+            for (let [key, value] of Object.entries(maxReturn)) {
+                let k = Object.keys(value)[0];
+                let v = value[k];
+                maxReturnDiv.innerHTML += `${key}: ${v}`
+
+            }
+            console.log("minRisk", minRisk, "maxReturn", maxReturn)
+            document.getElementById("submit").disabled = false
+            document.getElementById("loading").style.display = "none"
+        }
+        document.getElementById("submit").addEventListener("click", submit)
+    </script>
+</body>
+
+</html>
