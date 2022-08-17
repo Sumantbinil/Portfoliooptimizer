@@ -12,7 +12,7 @@
 </head>
 
 <body>
-    <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+
     <h1 align="center">PORTFOLIO OPTIMIZER</h1>
     <form>
         <input id="stock" />
@@ -27,34 +27,23 @@
     <div id="max-return">
 
     </div>
+    <canvas id="myChart" style="max-height: 500px; max-width: 500px;"></canvas>
     <script>
-        var xValues = [100, 200, 300, 400, 500, 600, 700, 800, 900, 1000];
-
-        new Chart("myChart", {
-            type: "line",
-            data: {
-                labels: xValues,
-                datasets: [{
-                    data: [860, 1140, 1060, 1060, 1070, 1110, 1330, 2210, 7830, 2478],
-                    borderColor: "red",
-                    fill: false
-                }, {
-                    data: [1600, 1700, 1700, 1900, 2000, 2700, 4000, 5000, 6000, 7000],
-                    borderColor: "green",
-                    fill: false
-                }, {
-                    data: [300, 700, 2000, 5000, 6000, 4000, 2000, 1000, 200, 100],
-                    borderColor: "blue",
-                    fill: false
-                }]
-            },
-            options: {
-                legend: { display: false }
-            }
-        });
+        let globalChart = undefined;
         const submit = async (e) => {
+            if (globalChart != undefined) {
+                globalChart.destroy()
+                globalChart = undefined
+            } 
             document.getElementById("loading").style.display = "block"
             document.getElementById("submit").disabled = true
+            
+            const minRiskDiv = document.getElementById("min-risk")
+            minRiskDiv.innerHTML = "MIN RISK "
+            
+            const maxReturnDiv = document.getElementById("max-return")
+            maxReturnDiv.innerHTML = "MAX RETURN "
+            
             e.preventDefault()
             const stock = document.getElementById("stock").value
             const response = await fetch('http://127.0.0.1:5000/api/portfolio?tickers=' + stock, {
@@ -64,8 +53,7 @@
             console.log(json);
             const minRisk = JSON.parse(json.minRisk)
             const maxReturn = JSON.parse(json.maxReturn)
-            const minRiskDiv = document.getElementById("min-risk")
-            minRiskDiv.innerHTML = "MIN RISK "
+            const df = JSON.parse(json.df)
             for (let [key, value] of Object.entries(minRisk)) {
                 console.log(value);
                 let k = Object.keys(value)[0];
@@ -73,17 +61,51 @@
                 minRiskDiv.innerHTML += `${key}: ${v}`
 
             }
-            const maxReturnDiv = document.getElementById("max-return")
-            maxReturnDiv.innerHTML = "MAX RETURN "
             for (let [key, value] of Object.entries(maxReturn)) {
                 let k = Object.keys(value)[0];
                 let v = value[k];
                 maxReturnDiv.innerHTML += `${key}: ${v}`
 
             }
-            console.log("minRisk", minRisk, "maxReturn", maxReturn)
+            console.log("minRisk", minRisk, "maxReturn", maxReturn, "df", df)
             document.getElementById("submit").disabled = false
             document.getElementById("loading").style.display = "none"
+            let colors = ['red', 'green', 'blue', 'yellow', 'purple']
+            let xValues = []
+            df.index.forEach(e => {
+                let date = new Date(e)
+                let d = date.getDate() +
+                    "/" + (date.getMonth() + 1) +
+                    "/" + date.getFullYear()
+                xValues.push(d)
+            })
+            let datasets = []
+            df.columns.forEach((e, i) => {
+                let data = {
+                    data: [],
+                    label: e,
+                    borderColor: colors[i],
+                    fill: false
+                }
+                datasets.push(data)
+            })
+            console.log(datasets)
+            df.data.forEach(element => {
+                element.forEach((e, i) => {
+                    datasets[i].data.push(e)
+                })
+            });
+
+            globalChart = new Chart("myChart", {
+                type: "line",
+                data: {
+                    labels: xValues,
+                    datasets: datasets
+                },
+                options: {
+                    legend: { display: false }
+                }
+            });
         }
         document.getElementById("submit").addEventListener("click", submit)
     </script>

@@ -21,7 +21,7 @@ class portfolio(Resource):
             minRisk, maxReturn, df = optimizer.optimize(ticker_list)
             data["minRisk"] = minRisk
             data["maxReturn"] = maxReturn
-            data["df"] = df
+            data["df"] = df.to_json(orient='split')
         else:
             data["Error"] = "No portfolio provided"
         app.logger.info(data)
