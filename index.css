@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+  }
+  .container > .row {
+    margin-bottom: 20px;
+  }
+  .risktable {
+    width: 100%;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #ddd;
+  }
+  .risktitle {
+    margin-bottom: 0 !important;
+    text-align: center;
+  }
