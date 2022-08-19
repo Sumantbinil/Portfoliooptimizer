@@ -1,19 +1,32 @@
 .container {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    align-items: center;
-  }
-  .container > .row {
-    margin-bottom: 20px;
-  }
-  .risktable {
-    width: 100%;
-    border-collapse: collapse;
-    border-spacing: 0;
-    border: 1px solid #ddd;
-  }
-  .risktitle {
-    margin-bottom: 0 !important;
-    text-align: center;
-  }
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  align-items: center;
+}
+.container > .row {
+  margin-bottom: 20px;
+}
+.risktable {
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: 1px solid #ddd;
+}
+.risktitle {
+  margin-bottom: 0 !important;
+  text-align: center;
+  font-weight: bold;
+}
+.input-group {
+  width: 75%;
+}
+.key_name {
+  font-weight: 300;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+body {
+  background: linear-gradient(#a4b5b9, #0dcaf0);
+}

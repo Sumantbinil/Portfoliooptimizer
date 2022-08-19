@@ -1,26 +1,27 @@
-let globalChart = undefined;
+let globalChart = [];
 const submit = async (e) => {
-  if (globalChart != undefined) {
-    globalChart.destroy();
-    globalChart = undefined;
-  }
+  globalChart.forEach((g) => g.destroy());
+  globalChart = [];
   document.getElementById("loading").style.display = "block";
   document.getElementById("submit").disabled = true;
 
+  e.preventDefault();
+  const stock = document.getElementById("stock").value;
+  const response = await fetch(
+    "http://127.0.0.1:5000/api/portfolio?tickers=" + stock,
+    {
+      method: "GET",
+    }
+  );
+  const json = await response.json();
+  console.log(json);
   const minRiskDiv = document.getElementById("min-risk");
   minRiskDiv.innerHTML = '<p class="risktitle">MIN RISK </p>';
 
   const maxReturnDiv = document.getElementById("max-return");
   maxReturnDiv.innerHTML = '<p class="risktitle">MAX RETURN</p>';
-
-  e.preventDefault();
-  const stock = document.getElementById("stock").value;
-  const response = await fetch('http://127.0.0.1:5000/api/portfolio?tickers=' + stock, {
-    method: 'GET',
-  });
-  const json = await response.json();
-  console.log(json);
   const minRisk = JSON.parse(json.minRisk);
+
   const maxReturn = JSON.parse(json.maxReturn);
   const df = JSON.parse(json.df);
   const minRiskTable = getTable(minRisk);
@@ -30,26 +31,26 @@ const submit = async (e) => {
   document.getElementById("submit").disabled = false;
   document.getElementById("loading").style.display = "none";
 
-  let y = []
-  let x = []
+  let y = [];
+  let x = [];
   for (let [key, value] of Object.entries(minRisk)) {
     console.log(value);
     let k = Object.keys(value)[0];
     let v = value[k];
-    x.push(key)
-    y.push(v)
+    x.push(key);
+    y.push(v);
   }
   y.splice(0, 3);
   x.splice(0, 3);
 
-  let ym = []
-  let xm = []
+  let ym = [];
+  let xm = [];
   for (let [key, value] of Object.entries(maxReturn)) {
     console.log(value);
     let k = Object.keys(value)[0];
     let v = value[k];
-    xm.push(key)
-    ym.push(v)
+    xm.push(key);
+    ym.push(v);
   }
   ym.splice(0, 3);
   xm.splice(0, 3);
@@ -81,57 +82,64 @@ const submit = async (e) => {
     });
   });
 
-  globalChart = new Chart("myChart", {
-    type: "line",
-    data: {
-      labels: xValues,
-      datasets: datasets,
-    },
-    options: {
-      legend: { display: false },
-    },
-  });
-  globalChart = new Chart("mypie", {
-    type: "pie",
-    data: {
-      labels: x,
-      datasets: [{
-        label: 'My First Dataset',
-        data: y,
-        backgroundColor: colors,
-
-      }]
-    },
-    options: {
-      legend: { display: false }
-    }
-  });
-  globalChart = new Chart("mypiem", {
-    type: "pie",
-    data: {
-      labels: xm,
-      datasets: [{
-        label: 'My First Dataset',
-        data: ym,
-        backgroundColor: colors,
-
-      }]
-    },
-    options: {
-      legend: { display: false }
-    }
-  });
-
+  globalChart.push(
+    new Chart("myChart", {
+      type: "line",
+      data: {
+        labels: xValues,
+        datasets: datasets,
+      },
+      options: {
+        legend: { display: false },
+      },
+    })
+  );
+  globalChart.push(
+    new Chart("mypie", {
+      type: "pie",
+      data: {
+        labels: x,
+        datasets: [
+          {
+            label: "My First Dataset",
+            data: y,
+            backgroundColor: colors,
+          },
+        ],
+      },
+      options: {
+        legend: { display: false },
+      },
+    })
+  );
+  globalChart.push(
+    new Chart("mypiem", {
+      type: "pie",
+      data: {
+        labels: xm,
+        datasets: [
+          {
+            label: "My First Dataset",
+            data: ym,
+            backgroundColor: colors,
+          },
+        ],
+      },
+      options: {
+        legend: { display: false },
+      },
+    })
+  );
 };
 document.getElementById("submit").addEventListener("click", submit);
 
 const getTable = (data) => {
   let table = document.createElement("table");
-  table.className = "risktable";
+  table.className = "table table-success table-striped";
   for (let [key, value] of Object.entries(data)) {
     let k = Object.keys(value)[0];
-    let v = value[k];
-    table.innerHTML += `<tr> <td>${key}</td> <td>${v}</td></tr>`;
+    let v = parseFloat(value[k]).toFixed(6);
+    table.innerHTML += `<tr> <td class="key_name">${key}</td> <td>${v}</td></tr>`;
   }
   return table;
 };

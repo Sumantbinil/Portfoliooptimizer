@@ -29,23 +29,28 @@
 
   <body>
     <div class="container">
-      <h1 class="row">PORTFOLIO OPTIMIZER</h1>
-      <form class="row">
-        <input id="stock" class="col" />
-        <button id="submit" class="col">SUBMIT</button>
-      </form>
+      <h1 class="row headingdiv"><B>PORTFOLIO OPTIMIZER</B></h1>
+
+      <div class="input-group mb-3">
+        <input id="stock" type="text" class="form-control" placeholder="input stock tickers" aria-label="input your stock tickers" aria-describedby="submit">
+        <button id="submit" class="btn btn-outline-secondary" type="button"><B>SUBMIT</B></button>
+      </div>
       <div class="row" id="loading" style="display: none">LOADING</div>
       <div class="row">
         <div id="min-risk" class="col"></div>
         <div id="max-return" class="col"></div>
       </div>
+      <div id="allgraph"></div>
       <canvas
         class="row"
         id="myChart"
-        style="max-height: 500px; max-width: 1000px"
+        style="max-height: 500px; max-width: 1000px;"
       ></canvas>
-      <canvas id="mypie" style="max-height: 400px; max-width: 400px;"></canvas>
-      <canvas id="mypiem" style="max-height: 400px; max-width: 400px;"></canvas>
+      <div class="row">
+        <canvas id="mypie" style="max-height: 400px; max-width: 400px"></canvas>
+        <canvas id="mypiem" style="max-height: 400px; max-width: 400px"></canvas>
+      </div>
+
     </div>
     <script src="index.js"></script>
     <link rel="stylesheet" href="index.css" />
