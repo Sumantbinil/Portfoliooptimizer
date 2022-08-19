@@ -1,10 +1,11 @@
-from flask import Flask, request
+from flask import Flask, render_template
+from flask import request
 from flask_restful import Resource, Api
 from flask_cors import CORS
 import optimizer
 
 def create_app():
-	app = Flask(__name__)
+	app = Flask(__name__,static_folder='static',template_folder='templates')
 	return app
 
 app = create_app()
@@ -31,9 +32,7 @@ api.add_resource(portfolio, '/api/portfolio')
 
 @app.route('/')
 def index():
-    return """<h2 style='color:red;background-color:blue'>Portfolio Optimizer Rest API using Flask</h2>
-    <p>Pass ticker symbols to tickers variable in URL string e.g. :</p>
-    <a href='/api/portfolio?tickers=FB GOOGL'>View Min Risk and Max Return Portfolios for FB and GOOGL</a>"""
+    return render_template('index.html')
 
 if __name__ == '__main__':
     app.run(host="0.0.0.0", port=8090)

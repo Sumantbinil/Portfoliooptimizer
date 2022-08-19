@@ -30,3 +30,9 @@
 body {
   background: linear-gradient(#a4b5b9, #0dcaf0);
 }
+.headingdiv{
+  color: red;
+}
+.table{
+  border-color: #212529!important;
+}

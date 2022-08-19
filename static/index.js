@@ -133,12 +133,13 @@ const submit = async (e) => {
 };
 document.getElementById("submit").addEventListener("click", submit);
 
-const getTable = (data) => {
+const getTable = (data,money=1) => {
   let table = document.createElement("table");
-  table.className = "table table-success table-striped";
+  table.className = "table table-bordered";
   for (let [key, value] of Object.entries(data)) {
     let k = Object.keys(value)[0];
-    let v = parseFloat(value[k]).toFixed(6);
+    let v = parseFloat(value[k]).toFixed(6)*money;
+
     table.innerHTML += `<tr> <td class="key_name">${key}</td> <td>${v}</td></tr>`;
   }
   return table;
