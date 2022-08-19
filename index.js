@@ -16,9 +16,9 @@ const submit = async (e) => {
   e.preventDefault();
   const stock = document.getElementById("stock").value;
   const response = await fetch('http://127.0.0.1:5000/api/portfolio?tickers=' + stock, {
-        method: 'GET',
-    });
-    const json = await response.json();
+    method: 'GET',
+  });
+  const json = await response.json();
   console.log(json);
   const minRisk = JSON.parse(json.minRisk);
   const maxReturn = JSON.parse(json.maxReturn);
@@ -29,6 +29,33 @@ const submit = async (e) => {
   maxReturnDiv.appendChild(maxReturnTable);
   document.getElementById("submit").disabled = false;
   document.getElementById("loading").style.display = "none";
+
+  let y = []
+  let x = []
+  for (let [key, value] of Object.entries(minRisk)) {
+    console.log(value);
+    let k = Object.keys(value)[0];
+    let v = value[k];
+    x.push(key)
+    y.push(v)
+  }
+  y.splice(0, 3);
+  x.splice(0, 3);
+
+  let ym = []
+  let xm = []
+  for (let [key, value] of Object.entries(maxReturn)) {
+    console.log(value);
+    let k = Object.keys(value)[0];
+    let v = value[k];
+    xm.push(key)
+    ym.push(v)
+  }
+  ym.splice(0, 3);
+  xm.splice(0, 3);
+  console.log(xm);
+  console.log(ym);
+
   let colors = ["red", "green", "blue", "yellow", "purple"];
   let xValues = [];
   df.index.forEach((e) => {
@@ -64,6 +91,37 @@ const submit = async (e) => {
       legend: { display: false },
     },
   });
+  globalChart = new Chart("mypie", {
+    type: "pie",
+    data: {
+      labels: x,
+      datasets: [{
+        label: 'My First Dataset',
+        data: y,
+        backgroundColor: colors,
+
+      }]
+    },
+    options: {
+      legend: { display: false }
+    }
+  });
+  globalChart = new Chart("mypiem", {
+    type: "pie",
+    data: {
+      labels: xm,
+      datasets: [{
+        label: 'My First Dataset',
+        data: ym,
+        backgroundColor: colors,
+
+      }]
+    },
+    options: {
+      legend: { display: false }
+    }
+  });
+
 };
 document.getElementById("submit").addEventListener("click", submit);
 
