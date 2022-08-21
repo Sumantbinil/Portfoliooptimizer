@@ -8,7 +8,7 @@ WORKDIR /app
 # Copy files from the current directory into the container's /app directory.
 COPY . /app
 # Install any needed packages specified in requirements.txt.
-RUN apk add g++ gcc python3-dev libffi-dev musl-dev zlib-dev jpeg-dev
+# RUN apk add g++ gcc python3-dev libffi-dev musl-dev zlib-dev jpeg-dev
 #python.exe -m pip install --upgrade pip
 
 
