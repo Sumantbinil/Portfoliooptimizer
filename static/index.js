@@ -64,13 +64,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" integrity="sha512-zptz5tdblkgFs+y5Z1XnrAJSGNOcP8dvDMbWaQ5ElKww6NF9mWdBZhacJKDXC9l2ULsC7pimUxRlrE+Oz+Au5A==" src="https://github.githubassets.com/assets/diffs-ce9b73e6d75b.js"></script>
   
 
-  <title>Portfoliooptimizer/index.js at side · Adithyabbalaji/Portfoliooptimizer</title>
+  <title>Portfoliooptimizer/index.js at main · Adithyabbalaji/Portfoliooptimizer</title>
 
 
 
     
 
-  <meta name="request-id" content="C72D:5578:19DF6:35879:6302CCBB" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7c9ffed467f0e3a8c445b521a77176c9199584343d549fed0a78b85b0db43df2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0aHlhYmJhbGFqaS9Qb3J0Zm9saW9vcHRpbWl6ZXIvdHJlZS9zaWRlIiwicmVxdWVzdF9pZCI6IkM3MkQ6NTU3ODoxOURGNjozNTg3OTo2MzAyQ0NCQiIsInZpc2l0b3JfaWQiOiI4NTAzNzkyNDQ4OTI4NjQ0Mjk5IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="8c43f7e6ccbf32a3468e85638c392844403e643b62a1eba2b615dc4d657a6179" data-pjax-transient="true" />
+  <meta name="request-id" content="C46D:529A:67A5:1D43F:6302DCD1" data-pjax-transient="true" /><meta name="html-safe-nonce" content="7c9ffed467f0e3a8c445b521a77176c9199584343d549fed0a78b85b0db43df2" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9BZGl0aHlhYmJhbGFqaS9Qb3J0Zm9saW9vcHRpbWl6ZXIvdHJlZS9tYWluL3N0YXRpYyIsInJlcXVlc3RfaWQiOiJDNDZEOjUyOUE6NjdBNToxRDQzRjo2MzAyRENEMSIsInZpc2l0b3JfaWQiOiI4NTAzNzkyNDQ4OTI4NjQ0Mjk5IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-pjax-transient="true" /><meta name="visitor-hmac" content="92a70e26055d15ffccd6ee9ecb78cf408119d1b32b686ec9e72c6116e924507e" data-pjax-transient="true" />
 
     <meta name="hovercard-subject-tag" content="repository:525432368" data-pjax-transient>
 
@@ -107,11 +107,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/22cbb6f420216ee0c696e7500ba0b64bc3c9f96d252f76851210d1fb98a6aa8e/Adithyabbalaji/Portfoliooptimizer" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Portfoliooptimizer/index.js at side · Adithyabbalaji/Portfoliooptimizer" /><meta name="twitter:description" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/22cbb6f420216ee0c696e7500ba0b64bc3c9f96d252f76851210d1fb98a6aa8e/Adithyabbalaji/Portfoliooptimizer" /><meta property="og:image:alt" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Portfoliooptimizer/index.js at side · Adithyabbalaji/Portfoliooptimizer" /><meta property="og:url" content="https://github.com/Adithyabbalaji/Portfoliooptimizer" /><meta property="og:description" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/22cbb6f420216ee0c696e7500ba0b64bc3c9f96d252f76851210d1fb98a6aa8e/Adithyabbalaji/Portfoliooptimizer" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Portfoliooptimizer/index.js at main · Adithyabbalaji/Portfoliooptimizer" /><meta name="twitter:description" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/22cbb6f420216ee0c696e7500ba0b64bc3c9f96d252f76851210d1fb98a6aa8e/Adithyabbalaji/Portfoliooptimizer" /><meta property="og:image:alt" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Portfoliooptimizer/index.js at main · Adithyabbalaji/Portfoliooptimizer" /><meta property="og:url" content="https://github.com/Adithyabbalaji/Portfoliooptimizer" /><meta property="og:description" content="Contribute to Adithyabbalaji/Portfoliooptimizer development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70511553/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDUxMTU1MywicyI6OTM2MzIzMzE3LCJjIjozNzU2NDI0ODE1LCJ0IjoxNjYxMTI3ODc1fQ==--9c37ce000fae7b16b92d3c914c0f31838a8a249a55f284aca1f0697da09a8ac1" data-refresh-url="/_alive" data-session-id="44fc06a14803ba12eef64e15ee2045b8097a8aebffbe0912c7b8597a5e3b8c85">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/70511553/ws?session=eyJ2IjoiVjMiLCJ1Ijo3MDUxMTU1MywicyI6OTM2MzIzMzE3LCJjIjozNzkxMjYxOTE3LCJ0IjoxNjYxMTMyMDA1fQ==--e438a2f8b0502bc5104272967ac152f312c94d5baab7b1cc8010eda6ddff080d" data-refresh-url="/_alive" data-session-id="44fc06a14803ba12eef64e15ee2045b8097a8aebffbe0912c7b8597a5e3b8c85">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -140,7 +140,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js" data-pjax-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -231,7 +231,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="Ek3GjNd3B4fvX8Zdn3KLDlvv1Rpj6L-x9Q5xeix8eEEC2fMpE4Xuqh3mnibUTVEOcNGqK3CMUlLuPgyQMrXv5A" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="7xk6ZZjQrHJDeRoABz3dVWeE1CRM-vdbHj5yF-TKv7v_jQ_AXCJFX7HAQntMAgdVTLqrFV-eGrgFDg_9-gMoHg" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -431,7 +431,7 @@
     <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Sumantbinil&quot;,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="0fbef84e5ccf64cf2187171aa3e57ffb513030a666e3f205db8260cdcc00c0b0" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Sumantbinil&quot;,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="ef6c99b41e029eda486002d2f7d5a599d5b9e906123420676b6cf10279115436" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -439,7 +439,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/70511553?s=40&amp;v=4" width="20" height="20" alt="@Sumantbinil" />
       Sumantbinil
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="99N9_hyKJNiqnRhsyoYAlrCSxP-Fo4LwqR5c2jcBOevSW91Zxi0mI_pRfyYuHhWQNrYDF_xrzOXn0cOQYxDatg" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6C1kfHDRX4fwIYfCQBTbVEWPO-9Aof8QxoI9PjRtvEXNpcTbqnZdfKDt4IikjM5Sw6v8BzlpsQWITaJ0YHxfGA" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -476,7 +476,7 @@
 <notification-indicator
   
   class=" js-socket-channel"
-  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzA1MTE1NTMiLCJ0IjoxNjYxMTI3ODc1fQ==--c85de9ecb6990e9430f780b77cd4b2be13a08ab30a7ec928c4751bce441f1697"
+  data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6NzA1MTE1NTMiLCJ0IjoxNjYxMTMyMDA1fQ==--0ff79ea1481aa57909641c9a19ab39fcf17e7874685e818e5ee68a5aad02f5db"
   data-indicator-mode="none"
   data-tooltip-global="You have unread notifications"
   data-tooltip-unavailable="Notifications are unavailable at the moment."
@@ -632,7 +632,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js
+      return-to=/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js
       user-id="70511553"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1595,7 +1595,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="1bdc4da44cb61eb69862d6cee301ca4cb049342f548c1e9777c504c7ed1187ec" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="30cdc4ed8414fd909993b11400eae068842bc2576af54b158fb332cd694b5477" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1647,7 +1647,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="aCZfcqoFU_ijuLwpdnKwFyD3dfwx8HyfiF87DrVfwW7lEn3UKITooJO5lNeN1Fdlk_hPiVX1xK-n38UrQjR3xQ" autocomplete="off" />
+              <form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="EKBKLewTw17N1cNr5OCY1sVH98Gckz8JV_w5AmNzsXqdlGiLbpJ4Bv3U65UfRn-kdkjNtPiWhzl4fMcnlBgH0Q" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="525432368">
 
@@ -1775,7 +1775,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="9Va0gyr90oFFN40C-7J6haA9rXu7R3xAQY_0ml_WQ4d4YpYlqHxp2XU2pfwAFJ33EzKXDt9CxHBuDwq_qL31LA" autocomplete="off" />
+            <form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2HpeooNSO11AcCspbsYFfYEuaM6znlEsT_ustRSwGWJVTnwEAdOABXBxA9eVYOIPMiFSu9eb6Rxge1KQ49uvyQ" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="525432368">
 
@@ -1922,7 +1922,7 @@
   <li>
       
   <div data-view-component="true" class="BtnGroup">
-        <a href="/Adithyabbalaji/Portfoliooptimizer/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="b0b78b1b97b23c586bd2546e936b8b6f84d3c6607dd3b814ee9e45d5241cf43d" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Adithyabbalaji/Portfoliooptimizer" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+        <a href="/Adithyabbalaji/Portfoliooptimizer/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="9882ce4ada0d5106b5ff3e442c9b8d38830444797bce2ac63853f30732290867" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" aria-label="Fork your own copy of Adithyabbalaji/Portfoliooptimizer" data-view-component="true" class="btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" title="2" data-view-component="true" class="Counter">2</span>
@@ -1940,13 +1940,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-47ce44">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8eecb0">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-47ce44"
+        id="filter-menu-8eecb0"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -1987,18 +1987,18 @@
 </template>
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container BtnGroup d-flex">
-    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="3rmyONQeE4pGT723nI-eoaMMA5GAVUNBxVgG6jOzaQvmiUHXAIFyQNDRZyEN_KhR878Ae8tO67-k3XxPmGR4pg" autocomplete="off" />
-        <input type="hidden" value="O5nIUIaYQwmrY18JvAYsgAiGyIrwxkkdAt0kNZfJbdcDqTu_Ugciwz39hZ8tdRpwWDXLYLvd4eNjWF6QPB58eg" data-csrf="true" class="js-confirm-csrf-token" />
+    <form class="starred js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="bVsHJqZjezHDTv8zYalph_oF6tXYA46rmtSgrbUxktFVa_TJcvwa-1XQJaXw2l93qrbpP5MYJlX7UdoIHuaDfA" autocomplete="off" />
+        <input type="hidden" value="UcjpbbHQNDf2HE5r0x6f3tB72PJ1gu29e2Rn7-9M7qFp-BqCZU9V_WCClP1CbakugMjbGD6ZRUMa4R1KRJv_DA" data-csrf="true" class="js-confirm-csrf-token" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="f5992571aa28fa7fdb1316823759c2e6964225dd11827408994d60afe69157e9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="03f161c269860d724f5090170ee03c88934598b64032d5185fbcc15d27c3c71a" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository" type="submit" data-view-component="true" class="rounded-left-2 border-right-0 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Starred
 </span>          <span id="repo-stars-counter-unstar" aria-label="0 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter js-social-count">0</span>
 </button></form>
-    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Y2kaDEjfKSQHB-LuEm5s13kd6yISOnM8xiNpL85KndjxRTvttfqcMOVuwvhmetXZlu65c8zYvchfFMewcyURGA" autocomplete="off" />
+    <form class="unstarred js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="hyjN7ZchWhrxXjqQTar9L6DauiV38xyTc-HLn2DWhYYVBOwMagTvDhM3GoY5vkQhTynodKkR0mfq1mUA3bkJRg" autocomplete="off" />
       <input type="hidden" name="context" value="repository">
-        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="8aa0ee4375639725936085bef0b30a5a9fe0d1058e28840cb5a16af2d33b3906" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+        <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="5f8090e5e0ab08cd14900fa33102b2dc483db3caa523ca3e50759ec1aa1d90c6" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -2017,13 +2017,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-705640">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-65e9b7">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-705640"
+        id="filter-menu-65e9b7"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2062,7 +2062,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Adithyabbalaji/Portfoliooptimizer/tree/side" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Adithyabbalaji/Portfoliooptimizer/tree/side" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/Adithyabbalaji/Portfoliooptimizer" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Adithyabbalaji/Portfoliooptimizer" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
@@ -2157,7 +2157,7 @@
   
             <ul>
                 <li data-menu-item="i0code-tab" hidden>
-                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Adithyabbalaji/Portfoliooptimizer/tree/side" href="/Adithyabbalaji/Portfoliooptimizer/tree/side">
+                  <a role="menuitem" class="js-selected-navigation-item selected dropdown-item" aria-current="page" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments /Adithyabbalaji/Portfoliooptimizer" href="/Adithyabbalaji/Portfoliooptimizer">
                     Code
 </a>                </li>
                 <li data-menu-item="i1issues-tab" hidden>
@@ -2217,7 +2217,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Adithyabbalaji/Portfoliooptimizer/blob/c56ed53f691b51cb85a51d4463071658eadafbf3/index.js">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/Adithyabbalaji/Portfoliooptimizer/blob/6d9a2595ddb08f016b784422a977e07b0684204a/static/index.js">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2229,7 +2229,7 @@
       <svg text="gray" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-branch">
     <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"></path>
 </svg>
-      <span class="css-truncate-target" data-menu-button>side</span>
+      <span class="css-truncate-target" data-menu-button>main</span>
       <span class="dropdown-caret"></span>
     </summary>
 
@@ -2276,7 +2276,7 @@
             query-endpoint="/Adithyabbalaji/Portfoliooptimizer/refs"
             
             cache-key="v0:1661005201.290111"
-            current-committish="c2lkZQ=="
+            current-committish="bWFpbg=="
             default-branch="bWFpbg=="
             name-with-owner="QWRpdGh5YWJiYWxhamkvUG9ydGZvbGlvb3B0aW1pemVy"
             prefetch-on-mouseover
@@ -2301,7 +2301,7 @@
             </div>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/{{ urlEncodedRefName }}/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/{{ urlEncodedRefName }}/static/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2327,7 +2327,7 @@
             data-targets="input-demux.sinks"
             query-endpoint="/Adithyabbalaji/Portfoliooptimizer/refs"
             cache-key="v0:1661005201.290111"
-            current-committish="c2lkZQ=="
+            current-committish="bWFpbg=="
             default-branch="bWFpbg=="
             name-with-owner="QWRpdGh5YWJiYWxhamkvUG9ydGZvbGlvb3B0aW1pemVy"
           >
@@ -2341,7 +2341,7 @@
             </template>
 
               <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/{{ urlEncodedRefName }}/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
+  <a href="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/{{ urlEncodedRefName }}/static/index.js" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}">
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2372,9 +2372,9 @@
 </div>
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Adithyabbalaji/Portfoliooptimizer/tree/side"><span>Portfoliooptimizer</span></a></span></span><span class="separator">/</span><strong class="final-path">index.js</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Adithyabbalaji/Portfoliooptimizer"><span>Portfoliooptimizer</span></a></span></span><span class="separator">/</span><span class="js-path-segment d-inline-block wb-break-all"><a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Adithyabbalaji/Portfoliooptimizer/tree/main/static"><span>static</span></a></span><span class="separator">/</span><strong class="final-path">index.js</strong>
       <span class="separator">/</span><details class="details-reset details-overlay d-inline" id="jumpto-symbol-select-menu">
-    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;side&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="34f524e98fc7eb5da545bda8ea387f7f72459dae3e37c54527c000ec16144dc0" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
+    <summary aria-haspopup="true" data-hotkey="r" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.click_on_blob_definitions&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;click_on_blob_definitions&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="d5e98a54aad40492c1c62b8d619de5ed402bf42f163de8920ac7b75888c77d56" data-view-component="true" class="Link--secondary css-truncate btn-link">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
 </svg>
     <span data-menu-button>Jump to</span>
@@ -2402,17 +2402,23 @@
         </div>
       <div class="SelectMenu-list">
         <div data-filterable-for="jumpto-symbols-filter-field" data-filterable-type="substring">
-            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;side&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="37dd77244f9ac1d48a2a31fe6989ff93cf870f0e2269fd79f327e0a7deb022cb" href="/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js#L3">
+            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="4e8fc5b174280f01964c8d348223c5ebd15aba319bbd632422c1c93ac3cf5c16" href="/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js#L2">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>submit</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
-</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;side&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="37dd77244f9ac1d48a2a31fe6989ff93cf870f0e2269fd79f327e0a7deb022cb" href="/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js#L151">
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="4e8fc5b174280f01964c8d348223c5ebd15aba319bbd632422c1c93ac3cf5c16" href="/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js#L156">
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
               <span class="flex-auto css-truncate-target" data-menu-button-text>getTable</span>
+              <span class="flex-auto d-flex flex-justify-end">Function</span>
+</a>            <a class="SelectMenu-item d-flex flex-justify-between css-truncate" role="menuitemradio" aria-checked="false" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;code_navigation.navigate_to_blob_definition&quot;,&quot;payload&quot;:{&quot;action&quot;:&quot;navigate_to_blob_definition&quot;,&quot;repository_id&quot;:525432368,&quot;ref&quot;:&quot;main&quot;,&quot;language&quot;:&quot;JavaScript&quot;,&quot;backend&quot;:&quot;ALEPH_FUZZY&quot;,&quot;code_nav_context&quot;:&quot;BLOB_VIEW&quot;,&quot;retry_backend&quot;:&quot;&quot;,&quot;cross_repo_results_included&quot;:&quot;CROSS_REPO_UNKNOWN&quot;,&quot;in_repo_result_count&quot;:0,&quot;cross_repo_result_count&quot;:0,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="4e8fc5b174280f01964c8d348223c5ebd15aba319bbd632422c1c93ac3cf5c16" href="/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js#L168">
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
+    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
+</svg>
+              <span class="flex-auto css-truncate-target" data-menu-button-text>newGraph</span>
               <span class="flex-auto d-flex flex-justify-end">Function</span>
 </a>        </div>
       </div>
@@ -2427,7 +2433,7 @@
 </details>
 
   </h2>
-    <a href="/Adithyabbalaji/Portfoliooptimizer/find/side" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
+    <a href="/Adithyabbalaji/Portfoliooptimizer/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
   <details id="blob-more-options-details" data-view-component="true" class="details-overlay details-reset position-relative">
     <summary role="button" data-view-component="true" class="btn">    <svg aria-label="More options" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal">
@@ -2436,7 +2442,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="c354ef3d90aff0906c652ba5ed2420a3411c8c5a8fba78439b37bb21ba0f3095" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Adithyabbalaji/Portfoliooptimizer/find/side">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="5bd9571e9377c93f0be45279330d4c3913ba46b849678a703e3cd7470e969123" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" data-pjax="true" href="/Adithyabbalaji/Portfoliooptimizer/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2454,13 +2460,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="index.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="static/index.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/c56ed53f691b51cb85a51d4463071658eadafbf3/index.js" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/6d9a2595ddb08f016b784422a977e07b0684204a/static/index.js" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2489,10 +2495,10 @@
   
 </div></div>
 
-    <include-fragment src="/Adithyabbalaji/Portfoliooptimizer/spoofed_commit_check/c56ed53f691b51cb85a51d4463071658eadafbf3" data-test-selector="spoofed-commit-check"></include-fragment>
+    <include-fragment src="/Adithyabbalaji/Portfoliooptimizer/spoofed_commit_check/6d9a2595ddb08f016b784422a977e07b0684204a" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/Adithyabbalaji/Portfoliooptimizer/contributors/side/index.js" class="commit-loader">
+  <include-fragment src="/Adithyabbalaji/Portfoliooptimizer/contributors/main/static/index.js" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2526,23 +2532,23 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      160 lines (142 sloc)
+      186 lines (169 sloc)
       <span class="file-info-divider"></span>
-    3.7 KB
+    4.62 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
       
 
     <div class="BtnGroup">
-        <a data-permalink-href="/Adithyabbalaji/Portfoliooptimizer/raw/c56ed53f691b51cb85a51d4463071658eadafbf3/index.js" href="/Adithyabbalaji/Portfoliooptimizer/raw/side/index.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/Adithyabbalaji/Portfoliooptimizer/blame/c56ed53f691b51cb85a51d4463071658eadafbf3/index.js" href="/Adithyabbalaji/Portfoliooptimizer/blame/side/index.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/Adithyabbalaji/Portfoliooptimizer/raw/6d9a2595ddb08f016b784422a977e07b0684204a/static/index.js" href="/Adithyabbalaji/Portfoliooptimizer/raw/main/static/index.js" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
+</a>          <a data-permalink-href="/Adithyabbalaji/Portfoliooptimizer/blame/6d9a2595ddb08f016b784422a977e07b0684204a/static/index.js" href="/Adithyabbalaji/Portfoliooptimizer/blame/main/static/index.js" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
 </a>    </div>
 
     <div class="d-flex">
         
 <div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/edit/side/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="h1kyVT-DZ6YQ1s0ayes_cmA8J9cpBOU3bSPPOoyWW6SsWXh_M9lcpwoE1v6R_hNKUJ2tXJ3QhvPMTR3eSkdunQ" autocomplete="off" />
+  <form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/edit/main/static/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BhUhiO2yz5-GHaTNO1Yz9GfkoTrusk3DfnuAURtKM0mEAXKn8DOJcFyEDUobNJ6nglNRFV1SPXpj9cgRFQL9Nw" autocomplete="off" />
       <button title="Edit the file in your fork of this project" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
     <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
 </svg>
@@ -2552,7 +2558,7 @@
 </summary>    <div class="SelectMenu right-0">
       <div class="SelectMenu-modal width-full">
         <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/edit/side/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="a7_CzoHJNsdpPE-W1x9w4MA9YQqX6WnVGxWM1PqLoBNAv4jkjZMNxnPuVHKPClzY8JzrgSM9ChG6e14wPFqVKg" autocomplete="off" />
+          <form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/edit/main/static/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="D3MXEbDWHBbBs77U2QOaLRFl6dPuSs-ZTU9EFZvFbhmNZ0Q-rVda-RsqF1P5YTd-9NIZ_F2qvyBQwQxVlY2gZw" autocomplete="off" />
               <button title="Edit the file in your fork of this project" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
               <div class="color-fg-muted">E</div>
 </button></form>
@@ -2560,7 +2566,7 @@
               <div class="mr-5 no-wrap">Open in github.dev</div>
               <div class="color-fg-muted">.</div>
 </a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Adithyabbalaji/Portfoliooptimizer?branch=side&amp;filepath=index.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
+            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="x-github-client://openRepo/https://github.com/Adithyabbalaji/Portfoliooptimizer?branch=main&amp;filepath=static%2Findex.js" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
               Open in GitHub Desktop
 </a>        </div>
       </div>
@@ -2571,10 +2577,10 @@
 
         
 <div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Adithyabbalaji/Portfoliooptimizer/raw/side/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
+  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/Adithyabbalaji/Portfoliooptimizer/raw/main/static/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="13096f5b79cae995e0516a2cbbfa545da342244929642acc75e96a322f4b27a6" aria-label="Copy raw contents">
+  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="19b24511deeab98f569b9260df8b54f017fd96bee77cf6b68636a0ac0badeb6e" aria-label="Copy raw contents">
         <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
     <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
 </svg>
@@ -2599,7 +2605,7 @@
 </remote-clipboard-copy></div>
 
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/delete/side/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="dygD_C20xUoyVh-ZsIOPBCMYETFBDm2pnSKGDJbfX7NQ6RPJqHq8HPtXJBvIGw2b8TCimOhpWMtePibxl2BHxg" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/Adithyabbalaji/Portfoliooptimizer/delete/main/static/index.js" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kJepOCPEw9JNvqPq1VJXxuYtMhk29k3R7mTKc-Wt3diNNrBJF8s6EWDOEKY_ZYpfNcrg-0jW0sn6imtVqNGBQA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Delete the file in your fork of this project" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2627,20 +2633,20 @@
             <li>
                 <a class="dropdown-item tooltipped tooltipped-nw js-remove-unless-platform"
                    data-platforms="windows,mac"
-                   href="x-github-client://openRepo/https://github.com/Adithyabbalaji/Portfoliooptimizer?branch=side&amp;filepath=index.js">
+                   href="x-github-client://openRepo/https://github.com/Adithyabbalaji/Portfoliooptimizer?branch=main&amp;filepath=static%2Findex.js">
                   Open with Desktop
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/raw/side/index.js">
+            <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/raw/main/static/index.js">
               View raw
             </a>
           </li>
             <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/Adithyabbalaji/Portfoliooptimizer/raw/side/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
+              <remote-clipboard-copy class="dropdown-item" data-src="/Adithyabbalaji/Portfoliooptimizer/raw/main/static/index.js" data-action="click:remote-clipboard-copy#remoteCopy">
   
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/side/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="13096f5b79cae995e0516a2cbbfa545da342244929642acc75e96a322f4b27a6">
+  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:525432368,&quot;originating_url&quot;:&quot;https://github.com/Adithyabbalaji/Portfoliooptimizer/blob/main/static/index.js&quot;,&quot;user_id&quot;:70511553}}" data-hydro-click-hmac="19b24511deeab98f569b9260df8b54f017fd96bee77cf6b68636a0ac0badeb6e">
                     Copy raw contents
 </span></span>
   <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
@@ -2663,20 +2669,20 @@
 </span>
 </remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/blame/side/index.js">
+              <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/blame/main/static/index.js">
                 View blame
               </a>
             </li>
 
               <li class="dropdown-divider" role="none"></li>
               <li>
-                <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/edit/side/index.js">Edit file</a>
+                <a class="dropdown-item" href="/Adithyabbalaji/Portfoliooptimizer/edit/main/static/index.js">Edit file</a>
               </li>
                 <li>
                   <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:525432368,&quot;actor_id&quot;:70511553,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
                 </li>
               <li>
-                <a class="dropdown-item menu-item-danger" href="/Adithyabbalaji/Portfoliooptimizer/delete/side/index.js">Delete file</a>
+                <a class="dropdown-item menu-item-danger" href="/Adithyabbalaji/Portfoliooptimizer/delete/main/static/index.js">Delete file</a>
               </li>
         </ul>
       </details>
@@ -2713,156 +2719,153 @@
 </svg>
 </span></template>
 
-  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="index.js">
+  <table data-hpc class="highlight tab-size js-file-line-container js-code-nav-container js-tagsearch-file" data-tab-size="8" data-paste-markdown-skip data-tagsearch-lang="JavaScript" data-tagsearch-path="static/index.js">
         <tr>
           <td id="L1" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="1"></td>
-          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>globalChart</span><span class=pl-kos>,</span><span class=pl-s1>gmin</span><span class=pl-kos>,</span><span class=pl-s1>gmax</span><span class=pl-c1>=</span><span class=pl-c1>undefined</span><span class=pl-kos>;</span></td>
+          <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class=pl-k>let</span> <span class=pl-s1>globalChart</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L2" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="2"></td>
-          <td id="LC2" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC2" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-en>submit</span> <span class=pl-c1>=</span> <span class=pl-k>async</span> <span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L3" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="3"></td>
-          <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-en>submit</span> <span class=pl-c1>=</span> <span class=pl-k>async</span> <span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC3" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalChart</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>g</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-s1>g</span><span class=pl-kos>.</span><span class=pl-en>destroy</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L4" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="4"></td>
-          <td id="LC4" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>globalChart</span> <span class=pl-c1>!=</span> <span class=pl-c1>undefined</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC4" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalChart</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L5" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="5"></td>
-          <td id="LC5" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>globalChart</span><span class=pl-kos>.</span><span class=pl-en>destroy</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC5" class="blob-code blob-code-inner js-file-line"> </td>
         </tr>
         <tr>
           <td id="L6" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="6"></td>
-          <td id="LC6" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>globalChart</span><span class=pl-c1>=</span><span class=pl-c1>undefined</span><span class=pl-kos>;</span></td>
+          <td id="LC6" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>e</span><span class=pl-kos>.</span><span class=pl-en>preventDefault</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L7" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="7"></td>
-          <td id="LC7" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+          <td id="LC7" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L8" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="8"></td>
-          <td id="LC8" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>gmin</span> <span class=pl-c1>!=</span> <span class=pl-c1>undefined</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC8" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>stock</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;stock&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>value</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L9" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="9"></td>
-          <td id="LC9" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>gmin</span><span class=pl-kos>.</span><span class=pl-en>destroy</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC9" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>stock</span><span class=pl-kos>.</span><span class=pl-en>split</span><span class=pl-kos>(</span><span class=pl-s>&quot; &quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-c1>&lt;</span><span class=pl-c1>2</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L10" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="10"></td>
-          <td id="LC10" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>gmin</span><span class=pl-c1>=</span><span class=pl-c1>undefined</span><span class=pl-kos>;</span></td>
+          <td id="LC10" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;stock&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>classList</span><span class=pl-kos>.</span><span class=pl-en>add</span><span class=pl-kos>(</span><span class=pl-s>&quot;is-invalid&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L11" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="11"></td>
-          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+          <td id="LC11" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;errorHelp&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;Minimum two stock tickers required&quot;</span></td>
         </tr>
         <tr>
           <td id="L12" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="12"></td>
-          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>if</span> <span class=pl-kos>(</span><span class=pl-s1>gmax</span> <span class=pl-c1>!=</span> <span class=pl-c1>undefined</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC12" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L13" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="13"></td>
-          <td id="LC13" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>gmax</span><span class=pl-kos>.</span><span class=pl-en>destroy</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC13" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L14" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="14"></td>
-          <td id="LC14" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>gmax</span><span class=pl-c1>=</span><span class=pl-c1>undefined</span><span class=pl-kos>;</span></td>
+          <td id="LC14" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>return</span></td>
         </tr>
         <tr>
           <td id="L15" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="15"></td>
-          <td id="LC15" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+          <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L16" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="16"></td>
-          <td id="LC16" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L17" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="17"></td>
-          <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>stock</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;stock&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>value</span><span class=pl-kos>;</span></td>
+          <td id="LC17" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;stock&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>classList</span><span class=pl-kos>.</span><span class=pl-en>remove</span><span class=pl-kos>(</span><span class=pl-s>&quot;is-invalid&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L18" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="18"></td>
-          <td id="LC18" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC18" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;errorHelp&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L19" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="19"></td>
-          <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRiskDiv</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;min-risk&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC19" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L20" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="20"></td>
-          <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&lt;p class=&quot;risktitle&quot;&gt;MIN RISK &lt;/p&gt;&#39;</span><span class=pl-kos>;</span></td>
+          <td id="LC20" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;loading&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;block&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L21" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="21"></td>
-          <td id="LC21" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC21" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>disabled</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L22" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="22"></td>
-          <td id="LC22" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturnDiv</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;max-return&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC22" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L23" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="23"></td>
-          <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&lt;p class=&quot;risktitle&quot;&gt;MAX RETURN&lt;/p&gt;&#39;</span><span class=pl-kos>;</span></td>
+          <td id="LC23" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>response</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-en>fetch</span><span class=pl-kos>(</span></td>
         </tr>
         <tr>
           <td id="L24" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="24"></td>
-          <td id="LC24" class="blob-code blob-code-inner js-file-line">  </td>
+          <td id="LC24" class="blob-code blob-code-inner js-file-line">    <span class=pl-s>&quot;http://127.0.0.1:5000/api/portfolio?tickers=&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>stock</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L25" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="25"></td>
-          <td id="LC25" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>if</span><span class=pl-kos>(</span><span class=pl-s1>stock</span><span class=pl-kos>.</span><span class=pl-en>split</span><span class=pl-kos>(</span><span class=pl-s>&quot; &quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>length</span><span class=pl-c1>&lt;</span><span class=pl-c1>2</span><span class=pl-kos>)</span><span class=pl-kos>{</span></td>
+          <td id="LC25" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L26" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="26"></td>
-          <td id="LC26" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;error&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span><span class=pl-c1>=</span><span class=pl-s>&quot;Minimum two input required&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC26" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>method</span>: <span class=pl-s>&quot;GET&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L27" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="27"></td>
-          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC27" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L28" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="28"></td>
-          <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC28" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L29" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="29"></td>
-          <td id="LC29" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+          <td id="LC29" class="blob-code blob-code-inner js-file-line">  </td>
         </tr>
         <tr>
           <td id="L30" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="30"></td>
-          <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>else</span><span class=pl-kos>{</span></td>
+          <td id="LC30" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>json</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-s1>response</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L31" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="31"></td>
-          <td id="LC31" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;error&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span><span class=pl-c1>=</span><span class=pl-s>&quot;&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC31" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRiskDiv</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;min-risk&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L32" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="32"></td>
-          <td id="LC32" class="blob-code blob-code-inner js-file-line">  </td>
+          <td id="LC32" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&lt;p class=&quot;risktitle&quot;&gt;MIN RISK &lt;/p&gt;&#39;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L33" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="33"></td>
-          <td id="LC33" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;loading&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;block&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC33" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L34" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="34"></td>
-          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>disabled</span> <span class=pl-c1>=</span> <span class=pl-c1>true</span><span class=pl-kos>;</span></td>
+          <td id="LC34" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturnDiv</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;max-return&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L35" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="35"></td>
-          <td id="LC35" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC35" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;&lt;p class=&quot;risktitle&quot;&gt;MAX RETURN&lt;/p&gt;&#39;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L36" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="36"></td>
-          <td id="LC36" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC36" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRisk</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L37" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="37"></td>
@@ -2871,503 +2874,610 @@
         </tr>
         <tr>
           <td id="L38" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="38"></td>
-          <td id="LC38" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>e</span><span class=pl-kos>.</span><span class=pl-en>preventDefault</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC38" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L39" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="39"></td>
-          <td id="LC39" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>response</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-en>fetch</span><span class=pl-kos>(</span><span class=pl-s>&#39;http://127.0.0.1:5000/api/portfolio?tickers=&#39;</span> <span class=pl-c1>+</span> <span class=pl-s1>stock</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
+          <td id="LC39" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L40" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="40"></td>
-          <td id="LC40" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>method</span>: <span class=pl-s>&#39;GET&#39;</span><span class=pl-kos>,</span></td>
+          <td id="LC40" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturn</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L41" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="41"></td>
-          <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC41" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>df</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>df</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L42" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="42"></td>
-          <td id="LC42" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>json</span> <span class=pl-c1>=</span> <span class=pl-k>await</span> <span class=pl-s1>response</span><span class=pl-kos>.</span><span class=pl-en>json</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC42" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRiskTable</span> <span class=pl-c1>=</span> <span class=pl-en>getTable</span><span class=pl-kos>(</span><span class=pl-s1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L43" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="43"></td>
-          <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC43" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturnTable</span> <span class=pl-c1>=</span> <span class=pl-en>getTable</span><span class=pl-kos>(</span><span class=pl-s1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L44" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="44"></td>
-          <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRisk</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC44" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>minRiskTable</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L45" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="45"></td>
-          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturn</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC45" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>maxReturnTable</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L46" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="46"></td>
-          <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>df</span> <span class=pl-c1>=</span> <span class=pl-c1>JSON</span><span class=pl-kos>.</span><span class=pl-en>parse</span><span class=pl-kos>(</span><span class=pl-s1>json</span><span class=pl-kos>.</span><span class=pl-c1>df</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC46" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>disabled</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L47" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="47"></td>
-          <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>minRiskTable</span> <span class=pl-c1>=</span> <span class=pl-en>getTable</span><span class=pl-kos>(</span><span class=pl-s1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC47" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;loading&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;none&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L48" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="48"></td>
-          <td id="LC48" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>maxReturnTable</span> <span class=pl-c1>=</span> <span class=pl-en>getTable</span><span class=pl-kos>(</span><span class=pl-s1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC48" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L49" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="49"></td>
-          <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>minRiskDiv</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>minRiskTable</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC49" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>y</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L50" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="50"></td>
-          <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>maxReturnDiv</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>maxReturnTable</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC50" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>x</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L51" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="51"></td>
-          <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>disabled</span> <span class=pl-c1>=</span> <span class=pl-c1>false</span><span class=pl-kos>;</span></td>
+          <td id="LC51" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L52" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="52"></td>
-          <td id="LC52" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;loading&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>style</span><span class=pl-kos>.</span><span class=pl-c1>display</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;none&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC52" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L53" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="53"></td>
-          <td id="LC53" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC53" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L54" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="54"></td>
-          <td id="LC54" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>y</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span></td>
+          <td id="LC54" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>x</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>key</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L55" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="55"></td>
-          <td id="LC55" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>x</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span></td>
+          <td id="LC55" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>y</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>v</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L56" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="56"></td>
-          <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>minRisk</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC56" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L57" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="57"></td>
-          <td id="LC57" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC57" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>y</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L58" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="58"></td>
-          <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC58" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>x</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L59" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="59"></td>
-          <td id="LC59" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC59" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L60" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="60"></td>
-          <td id="LC60" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>x</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>key</span><span class=pl-kos>)</span></td>
+          <td id="LC60" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>ym</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L61" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="61"></td>
-          <td id="LC61" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>y</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>v</span><span class=pl-kos>)</span></td>
+          <td id="LC61" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>xm</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L62" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="62"></td>
-          <td id="LC62" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+          <td id="LC62" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L63" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="63"></td>
-          <td id="LC63" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>y</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC63" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L64" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="64"></td>
-          <td id="LC64" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>x</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC64" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L65" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="65"></td>
-          <td id="LC65" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC65" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>xm</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>key</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L66" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="66"></td>
-          <td id="LC66" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>ym</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span></td>
+          <td id="LC66" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>ym</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>v</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L67" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="67"></td>
-          <td id="LC67" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>xm</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span></td>
+          <td id="LC67" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
         </tr>
         <tr>
           <td id="L68" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="68"></td>
-          <td id="LC68" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>maxReturn</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC68" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>ym</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L69" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="69"></td>
-          <td id="LC69" class="blob-code blob-code-inner js-file-line">    <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC69" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>xm</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L70" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="70"></td>
-          <td id="LC70" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC70" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L71" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="71"></td>
-          <td id="LC71" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC71" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>colors</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-s>&quot;red&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;green&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;blue&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;yellow&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;purple&quot;</span><span class=pl-kos>,</span><span class=pl-s>&quot;black&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L72" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="72"></td>
-          <td id="LC72" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>xm</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>key</span><span class=pl-kos>)</span></td>
+          <td id="LC72" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>xValues</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L73" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="73"></td>
-          <td id="LC73" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>ym</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>v</span><span class=pl-kos>)</span></td>
+          <td id="LC73" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>index</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L74" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="74"></td>
-          <td id="LC74" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+          <td id="LC74" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>date</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>Date</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L75" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="75"></td>
-          <td id="LC75" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>ym</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC75" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>d</span> <span class=pl-c1>=</span></td>
         </tr>
         <tr>
           <td id="L76" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="76"></td>
-          <td id="LC76" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>xm</span><span class=pl-kos>.</span><span class=pl-en>splice</span><span class=pl-kos>(</span><span class=pl-c1>0</span><span class=pl-kos>,</span> <span class=pl-c1>3</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC76" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getDate</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;/&quot;</span> <span class=pl-c1>+</span> <span class=pl-kos>(</span><span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getMonth</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-c1>1</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;/&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getFullYear</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L77" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="77"></td>
-          <td id="LC77" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>xm</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC77" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>xValues</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>d</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L78" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="78"></td>
-          <td id="LC78" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>ym</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC78" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L79" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="79"></td>
-          <td id="LC79" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC79" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>datasets</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L80" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="80"></td>
-          <td id="LC80" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>colors</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-s>&quot;red&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;green&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;blue&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;yellow&quot;</span><span class=pl-kos>,</span> <span class=pl-s>&quot;purple&quot;</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC80" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>columns</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>,</span> <span class=pl-s1>i</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L81" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="81"></td>
-          <td id="LC81" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>xValues</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC81" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>data</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L82" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="82"></td>
-          <td id="LC82" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>index</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC82" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>data</span>: <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L83" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="83"></td>
-          <td id="LC83" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>date</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>Date</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC83" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>label</span>: <span class=pl-s1>e</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L84" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="84"></td>
-          <td id="LC84" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>d</span> <span class=pl-c1>=</span></td>
+          <td id="LC84" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>borderColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L85" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="85"></td>
-          <td id="LC85" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getDate</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;/&quot;</span> <span class=pl-c1>+</span> <span class=pl-kos>(</span><span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getMonth</span><span class=pl-kos>(</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-c1>1</span><span class=pl-kos>)</span> <span class=pl-c1>+</span> <span class=pl-s>&quot;/&quot;</span> <span class=pl-c1>+</span> <span class=pl-s1>date</span><span class=pl-kos>.</span><span class=pl-en>getFullYear</span><span class=pl-kos>(</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC85" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>fill</span>: <span class=pl-c1>false</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L86" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="86"></td>
-          <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>xValues</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>d</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC86" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L87" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="87"></td>
-          <td id="LC87" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC87" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>datasets</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L88" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="88"></td>
-          <td id="LC88" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>datasets</span> <span class=pl-c1>=</span> <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC88" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L89" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="89"></td>
-          <td id="LC89" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>columns</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>,</span> <span class=pl-s1>i</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC89" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-kos>{</span>datasets<span class=pl-kos>,</span>xValues<span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L90" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="90"></td>
-          <td id="LC90" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>data</span> <span class=pl-c1>=</span> <span class=pl-kos>{</span></td>
+          <td id="LC90" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>data</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>element</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L91" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="91"></td>
-          <td id="LC91" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>data</span>: <span class=pl-kos>[</span><span class=pl-kos>]</span><span class=pl-kos>,</span></td>
+          <td id="LC91" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>element</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>,</span> <span class=pl-s1>i</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L92" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="92"></td>
-          <td id="LC92" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>label</span>: <span class=pl-s1>e</span><span class=pl-kos>,</span></td>
+          <td id="LC92" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>datasets</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>data</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L93" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="93"></td>
-          <td id="LC93" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>borderColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>,</span></td>
+          <td id="LC93" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L94" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="94"></td>
-          <td id="LC94" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>fill</span>: <span class=pl-c1>false</span><span class=pl-kos>,</span></td>
+          <td id="LC94" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L95" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="95"></td>
-          <td id="LC95" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+          <td id="LC95" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L96" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="96"></td>
-          <td id="LC96" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>datasets</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC96" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L97" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="97"></td>
-          <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC97" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalChart</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span></td>
         </tr>
         <tr>
           <td id="L98" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="98"></td>
-          <td id="LC98" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>console</span><span class=pl-kos>.</span><span class=pl-en>log</span><span class=pl-kos>(</span><span class=pl-s1>datasets</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC98" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s>&quot;mypie&quot;</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L99" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="99"></td>
-          <td id="LC99" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>df</span><span class=pl-kos>.</span><span class=pl-c1>data</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>element</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC99" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>type</span>: <span class=pl-s>&quot;pie&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L100" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="100"></td>
-          <td id="LC100" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>element</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>,</span> <span class=pl-s1>i</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC100" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L101" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="101"></td>
-          <td id="LC101" class="blob-code blob-code-inner js-file-line">      <span class=pl-s1>datasets</span><span class=pl-kos>[</span><span class=pl-s1>i</span><span class=pl-kos>]</span><span class=pl-kos>.</span><span class=pl-c1>data</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span><span class=pl-s1>e</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC101" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>labels</span>: <span class=pl-s1>x</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L102" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="102"></td>
-          <td id="LC102" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC102" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>datasets</span>: <span class=pl-kos>[</span></td>
         </tr>
         <tr>
           <td id="L103" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="103"></td>
-          <td id="LC103" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC103" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L104" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="104"></td>
-          <td id="LC104" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC104" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>label</span>: <span class=pl-s>&quot;My First Dataset&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L105" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="105"></td>
-          <td id="LC105" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalChart</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s>&quot;myChart&quot;</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
+          <td id="LC105" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>data</span>: <span class=pl-s1>y</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L106" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="106"></td>
-          <td id="LC106" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>type</span>: <span class=pl-s>&quot;line&quot;</span><span class=pl-kos>,</span></td>
+          <td id="LC106" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>backgroundColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L107" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="107"></td>
-          <td id="LC107" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
+          <td id="LC107" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L108" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="108"></td>
-          <td id="LC108" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>labels</span>: <span class=pl-s1>xValues</span><span class=pl-kos>,</span></td>
+          <td id="LC108" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>]</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L109" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="109"></td>
-          <td id="LC109" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>datasets</span>: <span class=pl-s1>datasets</span><span class=pl-kos>,</span></td>
+          <td id="LC109" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L110" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="110"></td>
-          <td id="LC110" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+          <td id="LC110" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L111" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="111"></td>
-          <td id="LC111" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
+          <td id="LC111" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>title</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L112" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="112"></td>
-          <td id="LC112" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>legend</span>: <span class=pl-kos>{</span> <span class=pl-c1>display</span>: <span class=pl-c1>false</span> <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+          <td id="LC112" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>display</span>: <span class=pl-c1>true</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L113" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="113"></td>
-          <td id="LC113" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+          <td id="LC113" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>text</span>: <span class=pl-s>&quot;MINIMUM RISK PORTFOLIO&quot;</span></td>
         </tr>
         <tr>
           <td id="L114" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="114"></td>
-          <td id="LC114" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC114" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L115" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="115"></td>
-          <td id="LC115" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>gmin</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s>&quot;mypie&quot;</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
+          <td id="LC115" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>legend</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L116" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="116"></td>
-          <td id="LC116" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>type</span>: <span class=pl-s>&quot;pie&quot;</span><span class=pl-kos>,</span></td>
+          <td id="LC116" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>position</span>: <span class=pl-s>&#39;top&#39;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L117" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="117"></td>
-          <td id="LC117" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
+          <td id="LC117" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L118" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="118"></td>
-          <td id="LC118" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>labels</span>: <span class=pl-s1>x</span><span class=pl-kos>,</span></td>
+          <td id="LC118" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L119" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="119"></td>
-          <td id="LC119" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>datasets</span>: <span class=pl-kos>[</span><span class=pl-kos>{</span></td>
+          <td id="LC119" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L120" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="120"></td>
-          <td id="LC120" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>label</span>: <span class=pl-s>&#39;Min Risk Piechart&#39;</span><span class=pl-kos>,</span></td>
+          <td id="LC120" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L121" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="121"></td>
-          <td id="LC121" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>data</span>: <span class=pl-s1>y</span><span class=pl-kos>,</span></td>
+          <td id="LC121" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalChart</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span></td>
         </tr>
         <tr>
           <td id="L122" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="122"></td>
-          <td id="LC122" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>backgroundColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>,</span></td>
+          <td id="LC122" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s>&quot;mypiem&quot;</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L123" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="123"></td>
-          <td id="LC123" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC123" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>type</span>: <span class=pl-s>&quot;pie&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L124" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="124"></td>
-          <td id="LC124" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>]</span></td>
+          <td id="LC124" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L125" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="125"></td>
-          <td id="LC125" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+          <td id="LC125" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>labels</span>: <span class=pl-s1>xm</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L126" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="126"></td>
-          <td id="LC126" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
+          <td id="LC126" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>datasets</span>: <span class=pl-kos>[</span></td>
         </tr>
         <tr>
           <td id="L127" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="127"></td>
-          <td id="LC127" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>legend</span>: <span class=pl-kos>{</span> <span class=pl-c1>display</span>: <span class=pl-c1>false</span> <span class=pl-kos>}</span></td>
+          <td id="LC127" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L128" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="128"></td>
-          <td id="LC128" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+          <td id="LC128" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>label</span>: <span class=pl-s>&quot;My First Dataset&quot;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L129" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="129"></td>
-          <td id="LC129" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC129" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>data</span>: <span class=pl-s1>ym</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L130" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="130"></td>
-          <td id="LC130" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>gmax</span> <span class=pl-c1>=</span> <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s>&quot;mypiem&quot;</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
+          <td id="LC130" class="blob-code blob-code-inner js-file-line">            <span class=pl-c1>backgroundColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L131" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="131"></td>
-          <td id="LC131" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>type</span>: <span class=pl-s>&quot;pie&quot;</span><span class=pl-kos>,</span></td>
+          <td id="LC131" class="blob-code blob-code-inner js-file-line">          <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L132" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="132"></td>
-          <td id="LC132" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
+          <td id="LC132" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>]</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L133" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="133"></td>
-          <td id="LC133" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>labels</span>: <span class=pl-s1>xm</span><span class=pl-kos>,</span></td>
+          <td id="LC133" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L134" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="134"></td>
-          <td id="LC134" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>datasets</span>: <span class=pl-kos>[</span><span class=pl-kos>{</span></td>
+          <td id="LC134" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L135" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="135"></td>
-          <td id="LC135" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>label</span>: <span class=pl-s>&#39;Max Return Piechart&#39;</span><span class=pl-kos>,</span></td>
+          <td id="LC135" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>title</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L136" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="136"></td>
-          <td id="LC136" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>data</span>: <span class=pl-s1>ym</span><span class=pl-kos>,</span></td>
+          <td id="LC136" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>display</span>: <span class=pl-c1>true</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L137" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="137"></td>
-          <td id="LC137" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>backgroundColor</span>: <span class=pl-s1>colors</span><span class=pl-kos>,</span></td>
+          <td id="LC137" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>text</span>: <span class=pl-s>&#39;MAXIMUM RETURN PORTFOLIO&#39;</span></td>
         </tr>
         <tr>
           <td id="L138" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="138"></td>
-          <td id="LC138" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC138" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L139" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="139"></td>
-          <td id="LC139" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>]</span></td>
+          <td id="LC139" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>legend</span>: <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L140" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="140"></td>
-          <td id="LC140" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+          <td id="LC140" class="blob-code blob-code-inner js-file-line">          <span class=pl-c1>position</span>: <span class=pl-s>&#39;top&#39;</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L141" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="141"></td>
-          <td id="LC141" class="blob-code blob-code-inner js-file-line">    <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
+          <td id="LC141" class="blob-code blob-code-inner js-file-line">        <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L142" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="142"></td>
-          <td id="LC142" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>legend</span>: <span class=pl-kos>{</span> <span class=pl-c1>display</span>: <span class=pl-c1>false</span> <span class=pl-kos>}</span></td>
+          <td id="LC142" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
         </tr>
         <tr>
           <td id="L143" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="143"></td>
-          <td id="LC143" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span></td>
+          <td id="LC143" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L144" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="144"></td>
-          <td id="LC144" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC144" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L145" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="145"></td>
-          <td id="LC145" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC145" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;leftchartname&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;MINIMUM RISK PORTFOLIO&#39;</span></td>
         </tr>
         <tr>
           <td id="L146" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="146"></td>
-          <td id="LC146" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+          <td id="LC146" class="blob-code blob-code-inner js-file-line">  <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;rightchartname&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&#39;MAXIMUM RETURN PORTFOLIO&#39;</span></td>
         </tr>
         <tr>
           <td id="L147" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="147"></td>
-          <td id="LC147" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+          <td id="LC147" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>k</span><span class=pl-c1>=</span><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;allgraph&quot;</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L148" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="148"></td>
-          <td id="LC148" class="blob-code blob-code-inner js-file-line">  </td>
+          <td id="LC148" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>k</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;&quot;</span></td>
         </tr>
         <tr>
           <td id="L149" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="149"></td>
-          <td id="LC149" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-en>submit</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC149" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>datasets</span><span class=pl-kos>.</span><span class=pl-en>forEach</span><span class=pl-kos>(</span><span class=pl-kos>(</span><span class=pl-s1>datast</span><span class=pl-kos>)</span><span class=pl-c1>=&gt;</span><span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L150" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="150"></td>
-          <td id="LC150" class="blob-code blob-code-inner js-file-line">
-</td>
+          <td id="LC150" class="blob-code blob-code-inner js-file-line">    <span class=pl-en>newGraph</span><span class=pl-kos>(</span><span class=pl-kos>{</span>xValues<span class=pl-kos>,</span><span class=pl-c1>datasets</span>:<span class=pl-kos>[</span><span class=pl-s1>datast</span><span class=pl-kos>]</span><span class=pl-kos>}</span><span class=pl-kos>,</span><span class=pl-s1>datast</span><span class=pl-kos>.</span><span class=pl-c1>label</span><span class=pl-kos>,</span><span class=pl-s1>k</span><span class=pl-kos>,</span><span class=pl-s1>globalChart</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L151" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="151"></td>
-          <td id="LC151" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-en>getTable</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+          <td id="LC151" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L152" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="152"></td>
-          <td id="LC152" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>table</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&quot;table&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
+          <td id="LC152" class="blob-code blob-code-inner js-file-line">  <span class=pl-en>newGraph</span><span class=pl-kos>(</span><span class=pl-kos>{</span>xValues<span class=pl-kos>,</span>datasets<span class=pl-kos>}</span><span class=pl-kos>,</span><span class=pl-s>&#39;myChart&#39;</span><span class=pl-kos>,</span><span class=pl-s1>k</span><span class=pl-kos>,</span><span class=pl-s1>globalChart</span><span class=pl-kos>)</span></td>
         </tr>
         <tr>
           <td id="L153" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="153"></td>
-          <td id="LC153" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>table</span><span class=pl-kos>.</span><span class=pl-c1>className</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;risktable&quot;</span><span class=pl-kos>;</span></td>
+          <td id="LC153" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L154" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="154"></td>
-          <td id="LC154" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
+          <td id="LC154" class="blob-code blob-code-inner js-file-line"><span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>getElementById</span><span class=pl-kos>(</span><span class=pl-s>&quot;submit&quot;</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>addEventListener</span><span class=pl-kos>(</span><span class=pl-s>&quot;click&quot;</span><span class=pl-kos>,</span> <span class=pl-en>submit</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L155" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="155"></td>
-          <td id="LC155" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC155" class="blob-code blob-code-inner js-file-line">
+</td>
         </tr>
         <tr>
           <td id="L156" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="156"></td>
-          <td id="LC156" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+          <td id="LC156" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-en>getTable</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>,</span><span class=pl-s1>money</span><span class=pl-c1>=</span><span class=pl-c1>1</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L157" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="157"></td>
-          <td id="LC157" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>table</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>+=</span> <span class=pl-s>`&lt;tr&gt; &lt;td&gt;<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>key</span><span class=pl-kos>}</span></span>&lt;/td&gt; &lt;td&gt;<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>v</span><span class=pl-kos>}</span></span>&lt;/td&gt;&lt;/tr&gt;`</span><span class=pl-kos>;</span></td>
+          <td id="LC157" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>let</span> <span class=pl-s1>table</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&quot;table&quot;</span><span class=pl-kos>)</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L158" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="158"></td>
-          <td id="LC158" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+          <td id="LC158" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>table</span><span class=pl-kos>.</span><span class=pl-c1>className</span> <span class=pl-c1>=</span> <span class=pl-s>&quot;table table-bordered&quot;</span><span class=pl-kos>;</span></td>
         </tr>
         <tr>
           <td id="L159" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="159"></td>
-          <td id="LC159" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span> <span class=pl-s1>table</span><span class=pl-kos>;</span></td>
+          <td id="LC159" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>for</span> <span class=pl-kos>(</span><span class=pl-k>let</span> <span class=pl-kos>[</span><span class=pl-s1>key</span><span class=pl-kos>,</span> <span class=pl-s1>value</span><span class=pl-kos>]</span> <span class=pl-k>of</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>entries</span><span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>)</span><span class=pl-kos>)</span> <span class=pl-kos>{</span></td>
         </tr>
         <tr>
           <td id="L160" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="160"></td>
-          <td id="LC160" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+          <td id="LC160" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>k</span> <span class=pl-c1>=</span> <span class=pl-v>Object</span><span class=pl-kos>.</span><span class=pl-en>keys</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>)</span><span class=pl-kos>[</span><span class=pl-c1>0</span><span class=pl-kos>]</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L161" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="161"></td>
+          <td id="LC161" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>let</span> <span class=pl-s1>v</span> <span class=pl-c1>=</span> <span class=pl-en>parseFloat</span><span class=pl-kos>(</span><span class=pl-s1>value</span><span class=pl-kos>[</span><span class=pl-s1>k</span><span class=pl-kos>]</span><span class=pl-kos>)</span><span class=pl-kos>.</span><span class=pl-en>toFixed</span><span class=pl-kos>(</span><span class=pl-c1>6</span><span class=pl-kos>)</span><span class=pl-c1>*</span><span class=pl-s1>money</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L162" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="162"></td>
+          <td id="LC162" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L163" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="163"></td>
+          <td id="LC163" class="blob-code blob-code-inner js-file-line">    <span class=pl-s1>table</span><span class=pl-kos>.</span><span class=pl-c1>innerHTML</span> <span class=pl-c1>+=</span> <span class=pl-s>`&lt;tr&gt; &lt;td class=&quot;key_name&quot;&gt;<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>key</span><span class=pl-kos>}</span></span>&lt;/td&gt; &lt;td&gt;<span class=pl-s1><span class=pl-kos>${</span><span class=pl-s1>v</span><span class=pl-kos>}</span></span>&lt;/td&gt;&lt;/tr&gt;`</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L164" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="164"></td>
+          <td id="LC164" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>}</span></td>
+        </tr>
+        <tr>
+          <td id="L165" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="165"></td>
+          <td id="LC165" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>return</span> <span class=pl-s1>table</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L166" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="166"></td>
+          <td id="LC166" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span><span class=pl-kos>;</span></td>
+        </tr>
+        <tr>
+          <td id="L167" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="167"></td>
+          <td id="LC167" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L168" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="168"></td>
+          <td id="LC168" class="blob-code blob-code-inner js-file-line"><span class=pl-k>const</span> <span class=pl-en>newGraph</span> <span class=pl-c1>=</span> <span class=pl-kos>(</span><span class=pl-s1>data</span><span class=pl-kos>,</span><span class=pl-s1>name</span><span class=pl-kos>,</span><span class=pl-s1>el</span><span class=pl-kos>,</span><span class=pl-s1>globalcharts</span><span class=pl-kos>)</span> <span class=pl-c1>=&gt;</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L169" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="169"></td>
+          <td id="LC169" class="blob-code blob-code-inner js-file-line">  <span class=pl-k>const</span> <span class=pl-s1>canv</span> <span class=pl-c1>=</span> <span class=pl-smi>document</span><span class=pl-kos>.</span><span class=pl-en>createElement</span><span class=pl-kos>(</span><span class=pl-s>&#39;canvas&#39;</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L170" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="170"></td>
+          <td id="LC170" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>canv</span><span class=pl-kos>.</span><span class=pl-c1>style</span> <span class=pl-c1>=</span><span class=pl-s>&quot;max-height: 500px; max-width: 1000px;&quot;</span></td>
+        </tr>
+        <tr>
+          <td id="L171" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="171"></td>
+          <td id="LC171" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>canv</span><span class=pl-kos>.</span><span class=pl-c1>id</span><span class=pl-c1>=</span><span class=pl-s1>name</span></td>
+        </tr>
+        <tr>
+          <td id="L172" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="172"></td>
+          <td id="LC172" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>el</span><span class=pl-kos>.</span><span class=pl-en>appendChild</span><span class=pl-kos>(</span><span class=pl-s1>canv</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L173" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="173"></td>
+          <td id="LC173" class="blob-code blob-code-inner js-file-line">
+</td>
+        </tr>
+        <tr>
+          <td id="L174" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="174"></td>
+          <td id="LC174" class="blob-code blob-code-inner js-file-line">  <span class=pl-s1>globalcharts</span><span class=pl-kos>.</span><span class=pl-en>push</span><span class=pl-kos>(</span></td>
+        </tr>
+        <tr>
+          <td id="L175" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="175"></td>
+          <td id="LC175" class="blob-code blob-code-inner js-file-line">    <span class=pl-k>new</span> <span class=pl-v>Chart</span><span class=pl-kos>(</span><span class=pl-s1>name</span><span class=pl-kos>,</span> <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L176" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="176"></td>
+          <td id="LC176" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>type</span>: <span class=pl-s>&quot;line&quot;</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L177" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="177"></td>
+          <td id="LC177" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>data</span>: <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L178" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="178"></td>
+          <td id="LC178" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>labels</span>: <span class=pl-s1>data</span><span class=pl-kos>.</span><span class=pl-c1>xValues</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L179" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="179"></td>
+          <td id="LC179" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>datasets</span>: <span class=pl-s1>data</span><span class=pl-kos>.</span><span class=pl-c1>datasets</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L180" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="180"></td>
+          <td id="LC180" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L181" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="181"></td>
+          <td id="LC181" class="blob-code blob-code-inner js-file-line">      <span class=pl-c1>options</span>: <span class=pl-kos>{</span></td>
+        </tr>
+        <tr>
+          <td id="L182" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="182"></td>
+          <td id="LC182" class="blob-code blob-code-inner js-file-line">        <span class=pl-c1>legend</span>: <span class=pl-kos>{</span> <span class=pl-c1>display</span>: <span class=pl-c1>false</span> <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L183" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="183"></td>
+          <td id="LC183" class="blob-code blob-code-inner js-file-line">      <span class=pl-kos>}</span><span class=pl-kos>,</span></td>
+        </tr>
+        <tr>
+          <td id="L184" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="184"></td>
+          <td id="LC184" class="blob-code blob-code-inner js-file-line">    <span class=pl-kos>}</span><span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L185" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="185"></td>
+          <td id="LC185" class="blob-code blob-code-inner js-file-line">  <span class=pl-kos>)</span></td>
+        </tr>
+        <tr>
+          <td id="L186" class="blob-num js-line-number js-code-nav-line-number js-blob-rnum" data-line-number="186"></td>
+          <td id="LC186" class="blob-code blob-code-inner js-file-line"><span class=pl-kos>}</span></td>
         </tr>
   </table>
 </div>
@@ -3393,7 +3503,7 @@
             Copy permalink
           </clipboard-copy>
         </li>
-        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Adithyabbalaji/Portfoliooptimizer/blame/c56ed53f691b51cb85a51d4463071658eadafbf3/index.js">View git blame</a></li>
+        <li><a class="dropdown-item js-update-url-with-hash" id="js-view-git-blame" role="menuitem" href="/Adithyabbalaji/Portfoliooptimizer/blame/6d9a2595ddb08f016b784422a977e07b0684204a/static/index.js">View git blame</a></li>
           <li><a class="dropdown-item" id="js-new-issue" role="menuitem" href="/Adithyabbalaji/Portfoliooptimizer/issues/new">Reference in new issue</a></li>
       </ul>
     </details-menu>
@@ -3419,7 +3529,7 @@
     <div class="Popover anim-scale-in js-tagsearch-popover"
      hidden
      data-tagsearch-url="/Adithyabbalaji/Portfoliooptimizer/find-definition"
-     data-tagsearch-ref="side"
+     data-tagsearch-ref="main"
      data-tagsearch-code-nav-context="BLOB_VIEW">
   <div class="Popover-message Popover-message--large Popover-message--top-left TagsearchPopover mt-1 mb-4 mx-auto Box color-shadow-large">
     <div class="TagsearchPopover-content js-tagsearch-popover-content overflow-auto" style="will-change:transform;">
