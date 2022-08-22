@@ -110,7 +110,7 @@ const submit = async (e) => {
       options: {
         title: {
           display: true,
-          text: 'MINIMUM RISK PORTFOLIO'
+          text: "MINIMUM RISK PORTFOLIO"
         },
         legend: {
           position: 'top',
@@ -145,7 +145,7 @@ const submit = async (e) => {
   document.getElementById("leftchartname").innerHTML = 'MINIMUM RISK PORTFOLIO'
   document.getElementById("rightchartname").innerHTML = 'MAXIMUM RETURN PORTFOLIO'
   const k=document.getElementById("allgraph")
-  k.innerHTML = undefined
+  k.innerHTML = ""
   datasets.forEach((datast)=>{
     newGraph({xValues,datasets:[datast]},datast.label,k,globalChart)
   })
