@@ -19,6 +19,8 @@
       crossorigin="anonymous"
     />
   </head>
+
+    <link rel="stylesheet" href="styles.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.9.1/chart.min.js"
         integrity="sha512-ElRFoEQdI5Ht6kZvyzXhYG9NqjtkmlkfYk0wr6wHxU9JEHakS7UJZNeml5ALk+8IKlU6jDgMabC3vkumRokgJA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
@@ -27,40 +29,26 @@
 
   <body>
     <div class="container">
-      <h1 class="row headingdiv"><B>PORTFOLIO OPTIMIZER</B></h1>
-      <form class="stock-form">
-        <div class="form-group row"  id="inputForm">
-          <div class="col-sm-10">
-            <input id="stock" type="text" class="form-control" placeholder="input stock tickers seperated by space" aria-label="input your stock tickers" aria-describedby="submit">
-            <small id="errorHelp" class="text-danger">
-            </small>   
-          </div>
-          <div class="col-sm-2">
-            <button id="submit" class="btn btn-outline-success" type="button"><B>SUBMIT</B></button>
-          </div>
-        </div>
+      <h1 class="row">PORTFOLIO OPTIMIZER</h1>
+      <form class="row">
+        <input id="stock" class="col" required/>
+        <span id="error"></span>
+        <button class="button-12" id="submit" type="button">SUBMIT</button>
       </form>
-      <span id="error" class="row"></span>
       <div class="row" id="loading" style="display: none">LOADING</div>
       <div class="row">
         <div id="min-risk" class="col"></div>
         <div id="max-return" class="col"></div>
       </div>
-      <div id="allgraph">
-      </div>
-      <div class="row">
-        <div class="col-sm-6" id="leftchart" style="max-height: 450px">
-          <canvas id="mypie" style="max-height: 800px; max-width: 800px"></canvas>
-          <p id="leftchartname" class="chartname"></p> 
-        </div>
-        <div class="col-sm-6" id="rightchart" style="max-height: 450px">
-          <canvas id="mypiem" style="max-height:800px; max-width: 800px"></canvas>
-          <p id="rightchartname" class="chartname"></p> 
-        </div>
-      </div>
+      <canvas
+        class="row"
+        id="myChart"
+        style="max-height: 500px; max-width: 1000px"
+      ></canvas>
+      <canvas id="mypie" style="max-height: 400px; max-width: 400px;"></canvas>
+      <canvas id="mypiem" style="max-height: 400px; max-width: 400px;"></canvas>
     </div>
-    <script  src="{{ url_for('static', filename='index.js')}}" data-turbolinks-track="reload"></script>
-    <link rel="stylesheet" media="all" href="{{ url_for('static', filename='index.css')}}">
-
+    <script src="index.js"></script>
+    <link rel="stylesheet" href="index.css" />
   </body>
 </html>
