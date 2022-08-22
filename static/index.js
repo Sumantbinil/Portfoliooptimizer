@@ -21,7 +21,7 @@ const submit = async (e) => {
   document.getElementById("submit").disabled = true;
 
   const response = await fetch(
-    "http://127.0.0.1:5000/api/portfolio?tickers=" + stock,
+    "http://portfolioapi-portfolioapi.linuxapacgtc40.conygre.com/api/portfolio?tickers=" + stock,
     {
       method: "GET",
     }
